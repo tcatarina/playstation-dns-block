@@ -18,7 +18,7 @@ You should be able to add this list to your MikroTik Adlist, or even as a source
 
 ## Credits
 
-This host list was originally collected by **[Al-Azif](https://gist.github.com/Al-Azif/296c7a4319c2fe3b597d96206213cdb6)**. All credit for the initial collection and research goes to him. This repository simply maintains it in a format easily consumable by MikroTik RouterOS.
+This host list was originally collected by **[Al-Azif](https://gist.github.com/Al-Azif/296c7a4319c2fe3b597d96206213cdb6)**. All credit for the entire collection and research goes to him. This repository simply maintains it in a format easily consumable by MikroTik RouterOS.
 
 ## License
 
